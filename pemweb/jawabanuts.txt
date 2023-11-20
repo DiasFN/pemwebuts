@@ -1,0 +1,25 @@
+1. Apa yang dimaksud dengan framework pada pengembangan aplikasi?
+   (jelaskan dengan bahasa yang mudah dimengerti, bukan secara
+   harfiah/istilah)
+
+   framework merupakan kerangka kerja atau struktur dasar yang membantu pengembang membuat aplikasi dengan lebih mudah dan efisien.
+ singkatnya framework ini mempercepat waktu dalam membuat pengembangan aplikasi.
+
+
+Soal no. 2
+1. Sebutkan tema proyek yang sedang digarap!
+   => Tema : Aplikasi Desa 
+
+2. Sebutkan anggota dari proyek yang sedang digarap, berikut dengan jobdesk dari masing-masing anggota!
+   => Devi Apriyanti (22416255201057) : Laporan
+      Dias Fikry Nurdiansyah (22416255201085) : Pemrograman 
+      Suci Ridyanti puteri (22416255201235) : Database	
+
+3. Jelaskan permasalahan yang didapat setelah hasil wawancara dengan client, beserta hipotesa solusi yang kalian usung! (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+   => Permasalahan : Proses pelayanan desa yang masih terkesan rumit dan membutuhkan banyak waktu serta adanya pihak ketiga atau calo dalam pelayan  
+      pembuatan surat di desa.
+
+      Hipotesa Solusi : Membuat aplikasi web yang di dalam nya terdapat fitur yang di khususkan untuk pelayanan desa seperti pembuatan surat, alur proses 
+      dari pembuatan surat nya yaitu dari pihak pengaju surat dapat mengisi dan mendapatkan langsung surat nya dalam bentuk file tanpa harus pergi ke desa,   
+      itu juga sesuai dengan fitur yang diinginkan oleh client. Alasan adanya fitur tersebut yaitu agar menghindari adanya calo dan untuk membuat pelayanan       
+      terkesan lebih mudah dan terjangkau.
